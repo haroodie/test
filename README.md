@@ -1,4 +1,2 @@
 # testd
 h
-d
-f
