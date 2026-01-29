@@ -1,8 +1,3 @@
 # testd
 
-aaaaaaaaaaaaaaaaaaaaaaaa
-иииииииииииииииииииииии
-jjjjjjjjjjjjjjjjjjjjjjj
-jlhkjhlkjhkjhkj
-jjkj
 k
